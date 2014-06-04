@@ -106,6 +106,28 @@ Now we can install all the other required packages:
     Cleaning up...
 
 
+Adding a theme
+--------------
+
+We'll be using the House_ theme for this example. If you want a different theme
+then please read more about :doc:`themes </themes>`.
+
+.. _House: https://github.com/djangochurch/djangochurch-theme-house
+
+Run the following commands:
+
+.. code-block:: console
+
+    $ curl -L https://github.com/djangochurch/djangochurch-theme-house/tarball/master | tar zxv
+      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                     Dload  Upload   Total   Spent    Left  Speed
+    100   152  100   152    0     0    190      0 --:--:-- --:--:-- --:--:--   400
+     ...
+    x djangochurch-djangochurch-theme-house-1852fc3/templates/pages/
+    x djangochurch-djangochurch-theme-house-1852fc3/templates/pages/default.html
+    $ mv djangochurch-djangochurch-theme-house-* theme
+
+
 Store your app in Git
 ---------------------
 
