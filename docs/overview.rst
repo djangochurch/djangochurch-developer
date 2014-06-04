@@ -27,11 +27,17 @@ following applications and packages:
 
 As well as the following themes:
 
-* Theme 1
-* Theme 2
-* Theme 3
-* Theme 4
-* Theme 5
+* Bold_
+* Fresh_
+* Calm_
+* House_
+* Light_
+
+.. _Bold: https://github.com/djangochurch/djangochurch-theme-bold
+.. _Fresh: https://github.com/djangochurch/djangochurch-theme-fresh
+.. _Calm: https://github.com/djangochurch/djangochurch-theme-calm
+.. _House: https://github.com/djangochurch/djangochurch-theme-house
+.. _Light: https://github.com/djangochurch/djangochurch-theme-light
 
 .. _requirements:
 
