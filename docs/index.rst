@@ -8,3 +8,4 @@ Contents:
 
    overview
    deployment/index.rst
+   themes
