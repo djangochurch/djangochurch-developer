@@ -102,7 +102,7 @@ Now we can install all the other required packages:
 
     $ pip install -r requirements.txt
       ...
-    Successfully installed pytz psycopg2 Pillow dj-database-url gunicorn blanc-basic-assets easy-thumbnails blanc-basic-news django-mptt django-mptt-admin six blanc-basic-pages icalendar python-dateutil blanc-basic-events
+    Successfully installed pytz psycopg2 Pillow dj-database-url gunicorn pystache dj-static-dev static3 django-storages boto blanc-basic-assets easy-thumbnails blanc-basic-news django-mptt django-mptt-admin six blanc-basic-pages icalendar python-dateutil blanc-basic-events
     Cleaning up...
 
 
@@ -118,10 +118,7 @@ Run the following commands:
 
 .. code-block:: console
 
-    $ curl -L https://github.com/djangochurch/djangochurch-theme-house/tarball/master | tar zxv
-      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                     Dload  Upload   Total   Spent    Left  Speed
-    100   152  100   152    0     0    190      0 --:--:-- --:--:-- --:--:--   400
+    $ curl -sL https://github.com/djangochurch/djangochurch-theme-house/tarball/master | tar zxv
      ...
     x djangochurch-djangochurch-theme-house-1852fc3/templates/pages/
     x djangochurch-djangochurch-theme-house-1852fc3/templates/pages/default.html
