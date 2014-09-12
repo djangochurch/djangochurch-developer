@@ -2,10 +2,10 @@ Vagrant
 =======
 
 To get you up and running quickly and easily, a `Django Church Vagrantfile`_ is
-available for usage with Vagrant_ and Virtualbox_.
+available for usage with Vagrant__ and Virtualbox_.
 
 .. _Django Church Vagrantfile: https://github.com/djangochurch/djangochurch-vagrant
-.. _Vagrant: https://www.vagrantup.com/
+.. __: https://www.vagrantup.com/
 .. _Virtualbox: https://www.virtualbox.org/
 
 
