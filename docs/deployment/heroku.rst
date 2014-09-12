@@ -64,17 +64,12 @@ Next, install our application's dependencies with pip_.
 
 .. _pip: https://pip.pypa.io/
 
-.. note::
-
-    As of June 2014, Django 1.7 is currently in beta, so we have to install the
-    beta version from the djangoproject.com site directly.
-
 From your virtualenv:
 
 .. code-block:: console
 
-    $ pip install https://www.djangoproject.com/download/1.7.b4/tarball/
-    Downloading/unpacking https://www.djangoproject.com/download/1.7.b4/tarball/
+    $ pip install Django==1.7
+    Downloading/unpacking Django==1.7
      ...
     Successfully installed Django
     Cleaning up...
