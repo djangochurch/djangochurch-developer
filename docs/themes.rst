@@ -31,10 +31,7 @@ commands:
 
 .. code-block:: console
 
-    $ curl -L https://github.com/djangochurch/djangochurch-theme-house/tarball/master | tar zxv
-      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                     Dload  Upload   Total   Spent    Left  Speed
-    100   152  100   152    0     0    190      0 --:--:-- --:--:-- --:--:--   400
+    $ curl -sL https://github.com/djangochurch/djangochurch-theme-house/tarball/master | tar zxv
      ...
     x djangochurch-djangochurch-theme-house-1852fc3/templates/pages/
     x djangochurch-djangochurch-theme-house-1852fc3/templates/pages/default.html
