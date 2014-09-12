@@ -13,8 +13,6 @@ These instructions are a modified version of the `getting started with Django`_
 documentation from Heroku, adjusted to make it easier to get going with the
 default applications provided by Django Church.
 
-.. _getting started with Django: https://devcenter.heroku.com/articles/getting-started-with-django
-
 
 Prerequisites
 -------------
@@ -25,7 +23,6 @@ Prerequisites
 * An installed version of Postgres_ (if you want to test locally).
 * A `Heroku user account`_.
 
-.. _Getting Started with Python: https://devcenter.heroku.com/articles/getting-started-with-python
 .. _this guide: http://install.python-guide.org/
 .. _Python: https://www.python.org/
 .. _Virtualenv: https://virtualenv.pypa.io/
@@ -48,8 +45,6 @@ First, we'll create an empty top-level directory for our project:
     older version, you may need to add the ``--no-site-packages`` flag.
 
 Next, we'll create a Python Virtualenv_ (v1.0+):
-
-.. _Virtualenv: https://virtualenv.pypa.io/
 
 .. code-block:: console
 
