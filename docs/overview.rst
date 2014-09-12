@@ -39,6 +39,8 @@ As well as the following themes:
 .. _House: https://github.com/djangochurch/djangochurch-theme-house
 .. _Light: https://github.com/djangochurch/djangochurch-theme-light
 
+.. _minimum-requirements:
+
 Requirements
 ------------
 

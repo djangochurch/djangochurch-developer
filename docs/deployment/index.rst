@@ -2,7 +2,7 @@ Deployment
 ==========
 
 Django Church can be deployed on host which meets the :ref:`minimum
-requirements <requirements>` for the project.
+requirements <minimum-requirements>` for the project.
 
 If you're unfamiliar with Django deployment, we recommend that you should read
 the `deploying Django <django:deploying-django>`_ documentation. The Django
